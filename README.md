@@ -4,7 +4,7 @@
 
 <h2>
 
-🔭 I’m currently working on Web Development and Problem Solving<br>👯 I’m looking to collaborate on Full Stack Development and Machine Learning Projects<br>🌱 I’m actively learning <span style="color:red">Data Structures & Algorithms</span> and  steadily improving my understanding of them.<br><br> [![](https://visitcount.itsvg.in/api?id=arin-paliwal&icon=2&color=6)](https://visitcount.itsvg.in)</h2>
+🔭 I’m currently working on Web Development and Problem Solving<br>👯 I’m looking to collaborate on Full Stack Development and Machine Learning Projects<br>🌱 I’m actively learning <span style="color:red">Data Structures & Algorithms</span> and  steadily improving my understanding of them.<br><br> [![](https://visitcount.itsvg.in/api?id=arin-paliwal&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <br>
 # 🌐 Socials:
 
