@@ -8,10 +8,10 @@
  <br><br>
 
  <div align="center">
+
+
  
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+I+am+Arin+Paliwal;An+Engineering+Student;A+Full+Stack+Web+Developer;DSA+Enthusiast)]()
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Acme&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+I+am+Arin+Paliwal;An+Engineering+Student;A+Full+Stack+Web+Developer;DSA+Enthusiast)]()
   
  </div>
  
