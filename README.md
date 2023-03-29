@@ -45,9 +45,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&theme=material-palenight&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&theme=material-palenight&hide_border=true&card_width=500)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=6&javascript=20&card_width=500&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arin-paliwal&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -57,7 +57,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
  
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- </center> -->
