@@ -47,8 +47,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arin-paliwal&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
