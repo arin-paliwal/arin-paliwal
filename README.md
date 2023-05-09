@@ -42,13 +42,19 @@
 
 # 📊 GitHub Stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&theme=material-palenight&hide_border=true&card_width=500)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=6&javascript=20&card_width=500&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)]((https://github.com/arin-paliwal/arin-paliwal)
+)<br>
+
+
+[![fh](https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&theme=material-palenight&hide_border=true&card_width=500)]((https://github.com/arin-paliwal/arin-paliwal)
+)<br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&card_width=500&card_height=500)](https://github.com/arin-paliwal/arin-paliwal)
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arin-paliwal&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arin-paliwal&theme=rogue)](https://github.com/arin-paliwal/arin-paliwal)
 
 <div align="center">
  
