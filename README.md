@@ -1,18 +1,15 @@
 <!-- <center> -->
- 
+
 <div align="center">
         <a href=""><img src="readme.gif" height="360" /></a>
-</div> 
- 
+</div>
 
- <br><br>
+<br><br>
 
  <div align="center">
 
-
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+I+am+Arin+Paliwal;An+Engineering+Student;A+Full+Stack+Web+Developer;DSA+Learner)]()
-  
+
  </div>
  
  
@@ -20,7 +17,7 @@
 
 <h2>
 
-🔭 I’m currently working on Web Development and Problem Solving<br>👯 I’m looking to collaborate on Full Stack Development and Machine Learning Projects<br>🌱 I’m actively learning <span style="color:red">Data Structures & Algorithms</span> and  steadily improving my understanding of them.<br><br>
+🔭 I’m currently working on Web Development and Problem Solving<br>👯 I’m looking to collaborate on Full Stack Development and Machine Learning Projects<br>🌱 I’m actively learning <span style="color:red">Data Structures & Algorithms</span> and steadily improving my understanding of them.<br><br>
 
  <div align="center">
   
@@ -32,7 +29,7 @@
  
 # 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rASr9bPbkb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paliwal.arin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arin.paliwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arinpaliwal) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arinpaliwal20) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Arin-Paliwal-2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Arin-Paliwal-2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arin_paliwal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-U6LmG6bRLQ0hzMe7tIsCg)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rASr9bPbkb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paliwal.arin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arin.paliwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arinpaliwal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arin_paliwal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-U6LmG6bRLQ0hzMe7tIsCg)
 
 <br>
 
@@ -48,6 +45,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&theme=material-palenight&hide_border=true&card_width=500)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=6&javascript=20&card_width=500&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arin-paliwal&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
