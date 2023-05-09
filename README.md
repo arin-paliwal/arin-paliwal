@@ -42,12 +42,10 @@
 
 # 📊 GitHub Stats:
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)]((https://github.com/arin-paliwal/arin-paliwal)
-)<br>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/arin-paliwal/arin-paliwal)
 
 
-[![fh](https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&theme=material-palenight&hide_border=true&card_width=500)]((https://github.com/arin-paliwal/arin-paliwal)
-)<br/>
+[![fh](https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&theme=material-palenight&hide_border=true&card_width=500)](https://github.com/arin-paliwal/arin-paliwal)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&card_width=500&card_height=500)](https://github.com/arin-paliwal/arin-paliwal)
