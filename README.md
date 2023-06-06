@@ -1,5 +1,3 @@
-<!-- <center> -->
-
 <div align="center">
         <a href=""><img src="readme.gif" height="360" /></a>
 </div>
@@ -8,29 +6,37 @@
 
  <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+I+am+Arin+Paliwal;An+Engineering+Student;A+Full+Stack+Web+Developer;DSA+Learner)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Arin+Paliwal;An+Engineering+Student;A+Full+Stack+Web+Developer;UI/UX+Developer;DSA+Learner)]()
 
  </div>
  
  
 # About Me:
 
-<h2>
+<div align="center">
+    <div style="float: left; text-align: left; width: 70%;">
+        <h2>🔭 I’m currently working on Web Development and Problem Solving.<br>👯 I’m looking to collaborate on Full Stack Development and Machine Learning Projects.<br>🌱 I’m actively learning <span style="color:red">Data Structures & Algorithms</span> and steadily improving my understanding of them.</h2>
+    </div>
+    <div style="float: right; text-align: right; width: 30%;">
+        <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+    </div>
+</div>
 
-🔭 I’m currently working on Web Development and Problem Solving<br>👯 I’m looking to collaborate on Full Stack Development and Machine Learning Projects<br>🌱 I’m actively learning <span style="color:red">Data Structures & Algorithms</span> and steadily improving my understanding of them.<br><br>
-
- <div align="center">
-  
- [![Profile Visitor Counter](https://visitcount.itsvg.in/api?id=arin-paliwal&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
-  
-<br>
-  
- </div>
+<hr>
 
 
 # Connect with me:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rASr9bPbkb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paliwal.arin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arin.paliwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arinpaliwal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arin_paliwal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-U6LmG6bRLQ0hzMe7tIsCg)
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="www.bit.ly/ArinPaliwal"><img src="logo.svg" height="50" /></a>
+    <a href="https://linkedin.com/in/arinpaliwal"><img src="linkedin.png" height="40" /></a>
+    <a href="https://twitter.com/arin_paliwal"><img src="twitter.png" height="40" /></a>
+    <a href="https://facebook.com/paliwal.arin"><img src="facebook.png" height="40" /></a>
+    <a href="https://www.instagram.com/arin.paliwal/"><img src="instagram.png" height="40" /></a>
+    <a href="https://discord.gg/rASr9bPbkb"><img src="discord.png" height="40" /></a>
+</div>
+
+
 
 
 <br>
