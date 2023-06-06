@@ -28,7 +28,7 @@
 # Connect with me:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="www.bit.ly/ArinPaliwal"><img src="logo.svg" height="50" /></a>
+    <a href="https://portfolio-arin.netlify.app/"><img src="logo.svg" height="50" /></a>
     <a href="https://linkedin.com/in/arinpaliwal"><img src="linkedin.png" height="40" /></a>
     <a href="https://twitter.com/arin_paliwal"><img src="twitter.png" height="40" /></a>
     <a href="https://facebook.com/paliwal.arin"><img src="facebook.png" height="40" /></a>
