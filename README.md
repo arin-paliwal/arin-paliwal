@@ -21,19 +21,20 @@
         <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
     </div>
 </div>
+<div align="center";style="display: flex; align-items:center; justify-content: center; gap: 20px;">
+        
+# Connect with me:<a href="https://portfolio-arin.netlify.app/"><img src="logo.svg" height="90" /></a>
 
-<hr>
+</div>
 
 
-# Connect with me:
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://portfolio-arin.netlify.app/"><img src="logo.svg" height="50" /></a>
-    <a href="https://linkedin.com/in/arinpaliwal"><img src="linkedin.png" height="40" /></a>
-    <a href="https://twitter.com/arin_paliwal"><img src="twitter.png" height="40" /></a>
-    <a href="https://facebook.com/paliwal.arin"><img src="facebook.png" height="40" /></a>
-    <a href="https://www.instagram.com/arin.paliwal/"><img src="instagram.png" height="40" /></a>
-    <a href="https://discord.gg/rASr9bPbkb"><img src="discord.png" height="40" /></a>
+<div align="center";style="display: flex; align-items:center; justify-content: center; gap: 20px;">
+    <a href="https://linkedin.com/in/arinpaliwal"><img src="linkedin.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/arin_paliwal"><img src="twitter.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://facebook.com/paliwal.arin"><img src="facebook.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/arin.paliwal/"><img src="instagram.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.gg/rASr9bPbkb"><img src="discord.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
