@@ -22,7 +22,7 @@
     </div>
 </div>
         
-# Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://portfolio-arin.netlify.app/"><img src="arinLogo.png" height="70" /></a>
+# Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://portfolio-arin.netlify.app/" __blank=""><img src="arinLogo.png" height="70" /></a>
 
 
 
