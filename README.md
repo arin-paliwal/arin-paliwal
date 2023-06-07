@@ -21,11 +21,9 @@
         <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
     </div>
 </div>
-<div align="center";style="display: flex; align-items:center; justify-content: center; gap: 20px;">
         
-# Connect with me:<a href="https://portfolio-arin.netlify.app/"><img src="logo.svg" height="90" /></a>
+# Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://portfolio-arin.netlify.app/"><img src="arinLogo.png" height="70" /></a>
 
-</div>
 
 
 
