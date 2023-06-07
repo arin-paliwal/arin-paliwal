@@ -10,6 +10,14 @@
 
  </div>
  
+ <div align="center">
+  
+ [![Profile Visitor Counter](https://visitcount.itsvg.in/api?id=arin-paliwal&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+  
+<br>
+  
+ </div>
+ 
  
 # About Me:
 
