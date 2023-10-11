@@ -107,8 +107,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arin-paliwal&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
 <div align="center">
 
-<!--START_SECTION:arin-paliwal-->
-<!--END_SECTION:arin-paliwal-->
+
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
  
