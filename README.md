@@ -114,3 +114,6 @@
 </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<!-- ## GitHub Activity -->
+
+<!-- ![GitHub Activity](https://github.com/your-username/your-repo/workflows/Waka%20Readme/badge.svg) -->
