@@ -33,7 +33,7 @@ jobs:
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML EZHIL # optional
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          COMMIT_MESSAGE: Updated Readme - Arin Paliwal # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
