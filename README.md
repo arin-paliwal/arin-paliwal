@@ -32,9 +32,6 @@
         
 # Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://portfolio-arin.netlify.app/" target="_blank" ><img src="arinLogo.png" height="70" /></a>
 
-
-
-
 <div align="center";style="display: flex; align-items:center; justify-content: center; gap: 20px;">
     <a href="https://linkedin.com/in/arinpaliwal"target="_blank"><img src="linkedin.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/arin_paliwal"target="_blank"><img src="twitter.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,9 +39,6 @@
     <a href="https://www.instagram.com/arin.paliwal/"target="_blank"><img src="instagram.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://discord.gg/rASr9bPbkb"target="_blank"><img src="discord.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-
-
 
 <br>
 
@@ -105,14 +99,12 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arin-paliwal&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
+
 <div align="center">
 
-
- 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
- 
-</div>
 
+</div>
 
 <!--START_SECTION:waka-->
 
