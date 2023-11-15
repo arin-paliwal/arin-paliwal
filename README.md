@@ -1,5 +1,5 @@
 <div align="center">
-        <a href=""><img src="readme.gif" height="360" /></a>
+        <a href=""><img src="/assets/readme.gif" /></a>
 </div>
 
 <br><br>
@@ -33,11 +33,11 @@
 # Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://portfolio-arin.netlify.app/" target="_blank" ><img src="arinLogo.png" height="70" /></a>
 
 <div align="center";style="display: flex; align-items:center; justify-content: center; gap: 20px;">
-    <a href="https://linkedin.com/in/arinpaliwal"target="_blank"><img src="linkedin.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/arin_paliwal"target="_blank"><img src="twitter.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/paliwal.arin"target="_blank"><img src="facebook.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/arin.paliwal/"target="_blank"><img src="instagram.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://discord.gg/rASr9bPbkb"target="_blank"><img src="discord.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/arinpaliwal"target="_blank"><img src="/assets/linkedin.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/arin_paliwal"target="_blank"><img src="/assets/twitter.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://facebook.com/paliwal.arin"target="_blank"><img src="/assets/facebook.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/arin.paliwal/"target="_blank"><img src="/assets/instagram.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.gg/rASr9bPbkb"target="_blank"><img src="/assets/discord.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
