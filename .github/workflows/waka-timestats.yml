@@ -12,7 +12,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "Updated dev metrics"
+          COMMIT_MESSAGE: "Updated Readme - Arin Paliwal"
           COMMIT_USERNAME: "guilyx"
           COMMIT_EMAIL: "erwin.lejeune15@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
