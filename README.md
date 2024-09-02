@@ -12,7 +12,7 @@
  
  <div align="center">
   
- [![Profile Visitor Counter](https://visitcount.itsvg.in/api?id=arin-paliwal&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+ [![Profile Visitor Counter](https://visitcount.itsvg.in/api?id=arin-paliwal&label=Profile%20Views&color=6&icon=2)](https://visitcount.itsvg.in)
   
 <br>
   
@@ -90,9 +90,9 @@
 
 # 📊 GitHub Stats:
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/arin-paliwal/arin-paliwal)
+![](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&card_width=500&card_height=500" alt="arin-paliwal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8" alt="arin-paliwal" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&card_width=500&card_height=500)](https://github.com/arin-paliwal/arin-paliwal)
 
