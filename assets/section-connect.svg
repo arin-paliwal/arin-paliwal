@@ -30,5 +30,5 @@
   <g clip-path="url(#clipL)">
     <rect class="sweep" x="0" y="49" width="220" height="2" rx="1" fill="url(#glow)" opacity="0.7"/>
   </g>
-  <text x="600" y="56" text-anchor="middle" class="fadein"><tspan class="mono" font-size="14" fill="#6a6a6a" letter-spacing="2">05</tspan><tspan dx="22" font-size="17" font-weight="500" fill="#8a8a8a" letter-spacing="4.5">CONNECT</tspan></text>
+  <text x="600" y="56" text-anchor="middle" class="fadein"><tspan class="mono" font-size="14" fill="#6a6a6a" letter-spacing="2">04</tspan><tspan dx="22" font-size="17" font-weight="500" fill="#8a8a8a" letter-spacing="4.5">CONNECT</tspan></text>
 </svg>

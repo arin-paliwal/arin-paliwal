@@ -74,29 +74,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/section-play.svg" alt="04 · Play" width="100%">
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/game-board-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/game-board-light.svg">
-    <img src="assets/game-board-dark.svg" alt="Connect Four — anyone can play" width="100%">
-  </picture>
-</div>
-
-<div align="center">
-  <a href="https://github.com/arin-paliwal/arin-paliwal/issues/new?title=c4-drop-1&body=Hit+%22Create%22+and+your+move+drops+into+column+1.+The+board+updates+in+about+30+seconds."><img src="assets/c4-col-1.svg" alt="Drop in column 1"></a>
-  <a href="https://github.com/arin-paliwal/arin-paliwal/issues/new?title=c4-drop-2&body=Hit+%22Create%22+and+your+move+drops+into+column+2.+The+board+updates+in+about+30+seconds."><img src="assets/c4-col-2.svg" alt="Drop in column 2"></a>
-  <a href="https://github.com/arin-paliwal/arin-paliwal/issues/new?title=c4-drop-3&body=Hit+%22Create%22+and+your+move+drops+into+column+3.+The+board+updates+in+about+30+seconds."><img src="assets/c4-col-3.svg" alt="Drop in column 3"></a>
-  <a href="https://github.com/arin-paliwal/arin-paliwal/issues/new?title=c4-drop-4&body=Hit+%22Create%22+and+your+move+drops+into+column+4.+The+board+updates+in+about+30+seconds."><img src="assets/c4-col-4.svg" alt="Drop in column 4"></a>
-  <a href="https://github.com/arin-paliwal/arin-paliwal/issues/new?title=c4-drop-5&body=Hit+%22Create%22+and+your+move+drops+into+column+5.+The+board+updates+in+about+30+seconds."><img src="assets/c4-col-5.svg" alt="Drop in column 5"></a>
-  <a href="https://github.com/arin-paliwal/arin-paliwal/issues/new?title=c4-drop-6&body=Hit+%22Create%22+and+your+move+drops+into+column+6.+The+board+updates+in+about+30+seconds."><img src="assets/c4-col-6.svg" alt="Drop in column 6"></a>
-  <a href="https://github.com/arin-paliwal/arin-paliwal/issues/new?title=c4-drop-7&body=Hit+%22Create%22+and+your+move+drops+into+column+7.+The+board+updates+in+about+30+seconds."><img src="assets/c4-col-7.svg" alt="Drop in column 7"></a>
-</div>
-
-<div align="center">
-  <img src="assets/section-connect.svg" alt="05 · Connect" width="100%">
+  <img src="assets/section-connect.svg" alt="04 · Connect" width="100%">
 </div>
 
 <div align="center">

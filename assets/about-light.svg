@@ -40,35 +40,35 @@
   <line x1="560" y1="1" x2="560" y2="559" stroke="#ececec" stroke-width="1"/>
 
   <g class="rise d1">
-    <text x="64" y="88" font-size="21" fill="#6f6f6f" letter-spacing="0.2">Software engineer based in India. I obsess</text>
-    <text x="64" y="122" font-size="21" letter-spacing="0.2"><tspan fill="#6f6f6f">over </tspan><tspan fill="#171717">the last 5%</tspan><tspan fill="#6f6f6f">. The spacing, the motion,</tspan></text>
-    <text x="64" y="156" font-size="21" letter-spacing="0.2"><tspan fill="#6f6f6f">the empty states. That&#8217;s where </tspan><tspan fill="#171717">good</tspan></text>
-    <text x="64" y="190" font-size="21" letter-spacing="0.2"><tspan fill="#171717">becomes great</tspan><tspan fill="#6f6f6f">.</tspan></text>
+    <text x="64" y="60" font-size="21" fill="#6f6f6f" letter-spacing="0.2">Software engineer based in India. I obsess</text>
+    <text x="64" y="94" font-size="21" letter-spacing="0.2"><tspan fill="#6f6f6f">over </tspan><tspan fill="#171717">the last 5%</tspan><tspan fill="#6f6f6f">. The spacing, the motion,</tspan></text>
+    <text x="64" y="128" font-size="21" letter-spacing="0.2"><tspan fill="#6f6f6f">the empty states. That&#8217;s where </tspan><tspan fill="#171717">good</tspan></text>
+    <text x="64" y="162" font-size="21" letter-spacing="0.2"><tspan fill="#171717">becomes great</tspan><tspan fill="#6f6f6f">.</tspan></text>
   </g>
   <g class="rise d2">
-    <text x="64" y="236" font-size="21" letter-spacing="0.2"><tspan fill="#6f6f6f">Days: building web platforms </tspan><tspan fill="#171717">at scale</tspan><tspan fill="#6f6f6f">.</tspan></text>
-    <text x="64" y="270" font-size="21" letter-spacing="0.2"><tspan fill="#6f6f6f">Nights: shipping </tspan><tspan fill="#171717">ideas of my own</tspan><tspan fill="#6f6f6f">.</tspan></text>
+    <text x="64" y="208" font-size="21" letter-spacing="0.2"><tspan fill="#6f6f6f">Days: building web platforms </tspan><tspan fill="#171717">at scale</tspan><tspan fill="#6f6f6f">.</tspan></text>
+    <text x="64" y="242" font-size="21" letter-spacing="0.2"><tspan fill="#6f6f6f">Nights: shipping </tspan><tspan fill="#171717">ideas of my own</tspan><tspan fill="#6f6f6f">.</tspan></text>
   </g>
 
-  <line x1="64" y1="308" x2="496" y2="308" stroke="#ececec" stroke-width="1"/>
+  <line x1="64" y1="280" x2="496" y2="280" stroke="#ececec" stroke-width="1"/>
   <g class="rise d3">
-    <text x="64" y="348" class="mono" font-size="13" fill="#a3a3a3" letter-spacing="2">NOW</text>
-    <text x="190" y="349" font-size="17.5" fill="#737373">frontend platforms at <tspan fill="#171717">Simpplr</tspan></text>
+    <text x="64" y="320" class="mono" font-size="13" fill="#a3a3a3" letter-spacing="2">NOW</text>
+    <text x="190" y="321" font-size="17.5" fill="#737373">frontend platforms at <tspan fill="#171717">Simpplr</tspan></text>
   </g>
-  <line x1="64" y1="372" x2="496" y2="372" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="64" y1="344" x2="496" y2="344" stroke="#f0f0f0" stroke-width="1"/>
   <g class="rise d4">
-    <text x="64" y="412" class="mono" font-size="13" fill="#a3a3a3" letter-spacing="2">BUILDING</text>
-    <text x="190" y="413" font-size="17.5" fill="#737373">web products, <tspan fill="#171717">SDKs</tspan> and <tspan fill="#171717">dev tools</tspan></text>
+    <text x="64" y="384" class="mono" font-size="13" fill="#a3a3a3" letter-spacing="2">BUILDING</text>
+    <text x="190" y="385" font-size="17.5" fill="#737373">web products, <tspan fill="#171717">SDKs</tspan> and <tspan fill="#171717">dev tools</tspan></text>
   </g>
-  <line x1="64" y1="436" x2="496" y2="436" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="64" y1="408" x2="496" y2="408" stroke="#f0f0f0" stroke-width="1"/>
   <g class="rise d5">
-    <text x="64" y="476" class="mono" font-size="13" fill="#a3a3a3" letter-spacing="2">LEARNING</text>
-    <text x="190" y="477" font-size="17.5" fill="#737373">AI agents and design engineering</text>
+    <text x="64" y="448" class="mono" font-size="13" fill="#a3a3a3" letter-spacing="2">LEARNING</text>
+    <text x="190" y="449" font-size="17.5" fill="#737373">AI agents and design engineering</text>
   </g>
-  <line x1="64" y1="500" x2="496" y2="500" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="64" y1="472" x2="496" y2="472" stroke="#f0f0f0" stroke-width="1"/>
   <g class="rise d6">
-    <text x="64" y="540" class="mono" font-size="13" fill="#a3a3a3" letter-spacing="2">VALUES</text>
-    <text x="190" y="541" font-size="17.5" fill="#737373">less, but better</text>
+    <text x="64" y="512" class="mono" font-size="13" fill="#a3a3a3" letter-spacing="2">VALUES</text>
+    <text x="190" y="513" font-size="17.5" fill="#737373">less, but better</text>
   </g>
 
   <rect x="596" y="36" width="568" height="488" rx="10" fill="#ffffff" stroke="#e5e5e5" stroke-width="1"/>
