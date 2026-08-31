@@ -54,18 +54,18 @@
     <text x="1136" y="246" text-anchor="end" class="mono" font-size="10.5" fill="#d4d4d4" letter-spacing="1">WAKATIME · ALL TIME</text>
     <rect x="64" y="262" width="1072" height="6" rx="3" fill="#ececec"/>
     <g class="seg">
-      <rect x="64" y="262" width="456" height="6" rx="3" fill="#404040"/>
-      <rect x="524" y="262" width="405" height="6" rx="3" fill="#6f6f6f"/>
-      <rect x="933" y="262" width="91" height="6" rx="3" fill="#a3a3a3"/>
-      <rect x="1028" y="262" width="18" height="6" rx="3" fill="#c9c9c9"/>
+      <rect id="seg1" x="64" y="262" width="456" height="6" rx="3" fill="#404040"/>
+      <rect id="seg2" x="524" y="262" width="405" height="6" rx="3" fill="#6f6f6f"/>
+      <rect id="seg3" x="933" y="262" width="91" height="6" rx="3" fill="#a3a3a3"/>
+      <rect id="seg4" x="1028" y="262" width="18" height="6" rx="3" fill="#c9c9c9"/>
     </g>
     <rect x="64" y="290" width="8" height="8" rx="2" fill="#404040"/>
-    <text x="80" y="298" class="mono" font-size="10.5" fill="#8f8f8f">JAVASCRIPT 42.7%</text>
+    <text id="leg1" x="80" y="298" class="mono" font-size="10.5" fill="#8f8f8f">JAVASCRIPT 42.7%</text>
     <rect x="240" y="290" width="8" height="8" rx="2" fill="#6f6f6f"/>
-    <text x="256" y="298" class="mono" font-size="10.5" fill="#8f8f8f">TYPESCRIPT 38.0%</text>
+    <text id="leg2" x="256" y="298" class="mono" font-size="10.5" fill="#8f8f8f">TYPESCRIPT 38.0%</text>
     <rect x="416" y="290" width="8" height="8" rx="2" fill="#a3a3a3"/>
-    <text x="432" y="298" class="mono" font-size="10.5" fill="#8f8f8f">PYTHON 8.6%</text>
+    <text id="leg3" x="432" y="298" class="mono" font-size="10.5" fill="#8f8f8f">PYTHON 8.6%</text>
     <rect x="552" y="290" width="8" height="8" rx="2" fill="#c9c9c9"/>
-    <text x="568" y="298" class="mono" font-size="10.5" fill="#8f8f8f">HTML 1.8%</text>
+    <text id="leg4" x="568" y="298" class="mono" font-size="10.5" fill="#8f8f8f">HTML 1.8%</text>
   </g>
 </svg>

@@ -63,31 +63,15 @@
   </picture>
 </div>
 
-<!--START_SECTION:waka-->
-
-```rust
-From: 30 July 2023 - To: 29 August 2026
-
-Total Time: 1,876 hrs 14 mins
-
-JavaScript                 813 hrs 1 min         >>>>>>>>>>>--------------   42.71 %
-TypeScript                 722 hrs 35 mins       >>>>>>>>>----------------   37.96 %
-Python                     163 hrs 25 mins       >>-----------------------   08.58 %
-HTML                       33 hrs 45 mins        -------------------------   01.77 %
-Other                      27 hrs 20 mins        -------------------------   01.44 %
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center">
   <img src="assets/section-connect.svg" alt="04 · Connect" width="100%">
 </div>
 
 <div align="center">
-  <a href="https://arinpaliwal.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="56"></a>&#160;&#160;
-  <a href="https://linkedin.com/in/arinpaliwal"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="56"></a>&#160;&#160;
-  <a href="https://twitter.com/arin_paliwal"><img src="assets/btn-twitter.svg" alt="X / Twitter" height="56"></a>&#160;&#160;
-  <a href="mailto:paliwalarin09@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="56"></a>
+  <a href="https://arinpaliwal.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>&#160;&#160;
+  <a href="https://linkedin.com/in/arinpaliwal"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>&#160;&#160;
+  <a href="https://twitter.com/arin_paliwal"><img src="assets/btn-twitter.svg" alt="X / Twitter"></a>&#160;&#160;
+  <a href="mailto:paliwalarin09@gmail.com"><img src="assets/btn-email.svg" alt="Email"></a>
 </div>
 
 <br>

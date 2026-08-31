@@ -23,6 +23,7 @@ jobs:
         run: node scripts/update-stats.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Commit if changed
         run: |
