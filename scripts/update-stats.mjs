@@ -61,7 +61,7 @@ for (const [file, fills] of Object.entries(SEG_FILLS)) {
       const w = Math.max(6, Math.round((BAR_W * lang.percent) / 100));
       svg = svg.replace(
         new RegExp(`<rect id="seg${i + 1}"[^>]*/>`),
-        `<rect id="seg${i + 1}" x="${x}" y="262" width="${w}" height="6" rx="3" fill="${fills[i]}"/>`,
+        `<rect id="seg${i + 1}" x="${x}" y="306" width="${w}" height="7" rx="3.5" fill="${fills[i]}"/>`,
       );
       svg = svg.replace(
         new RegExp(`(<text id="leg${i + 1}"[^>]*>)[^<]*(</text>)`),
