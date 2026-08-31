@@ -57,9 +57,9 @@
     </g>
     <g class="rise d4">
       <text x="600" y="220" text-anchor="middle" class="role" font-size="14" fill="#525252" letter-spacing="2">SOFTWARE ENGINEER</text>
-      <text x="600" y="220" text-anchor="middle" class="role role2" font-size="14" fill="#525252" letter-spacing="2">DESIGN-MINDED FRONTEND CRAFTSMAN</text>
-      <text x="600" y="220" text-anchor="middle" class="role role3" font-size="14" fill="#525252" letter-spacing="2">BUILDER OF THOUGHTFUL PRODUCTS</text>
-      <text x="600" y="220" text-anchor="middle" class="role role4" font-size="14" fill="#525252" letter-spacing="2">TYPESCRIPT ENTHUSIAST</text>
+      <text x="600" y="220" text-anchor="middle" class="role role2" font-size="14" fill="#525252" letter-spacing="2">DESIGN ENGINEER AT HEART</text>
+      <text x="600" y="220" text-anchor="middle" class="role role3" font-size="14" fill="#525252" letter-spacing="2">SHIPS POLISHED PRODUCTS</text>
+      <text x="600" y="220" text-anchor="middle" class="role role4" font-size="14" fill="#525252" letter-spacing="2">TYPESCRIPT, OBVIOUSLY</text>
     </g>
     <rect x="260" y="259.25" width="680" height="1" fill="url(#hairfade)"/>
     <g clip-path="url(#lineclip)">
