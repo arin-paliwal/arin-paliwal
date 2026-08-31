@@ -1,110 +1,166 @@
-<div align="center">
-        <a href=""><img src="/assets/readme.gif" /></a>
-</div>
-
-<br><br>
-
- <div align="center">
-
-[![Typing SVGz](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Arin+Paliwal;An+Engineering+Student;A+Full+Stack+Web+Developer;UI/UX+Developer;DSA+Learner)]()
-
- </div>
- 
- <div align="center">
-  
- [![Profile Visitor Counter](https://visitcount.itsvg.in/api?id=arin-paliwal&label=Profile%20Views&color=6&icon=2)](https://visitcount.itsvg.in)
-  
-<br>
-  
- </div>
- 
- 
-# About Me:
+<!--
+  ────────────────────────────────────────────────────────────
+  arin-paliwal · profile readme
+  hand-crafted animated svgs · embedded geist typography
+  no templates, no generators — view source, it's all here
+  ────────────────────────────────────────────────────────────
+-->
 
 <div align="center">
-    <div style="float: left; text-align: left; width: 70%;">
-        <h2>🔭 I’m currently working on Web Development and Problem Solving.<br>👯 I’m looking to collaborate on Full Stack Development and Machine Learning Projects.<br>🌱 I’m actively learning <span style="color:red">Data Structures & Algorithms</span> and steadily improving my understanding of them.</h2>
-    </div>
-    <div style="float: right; text-align: right; width: 30%;">
-        <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
-    </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img src="assets/hero-dark.svg" alt="Arin Paliwal — Software Engineer" width="100%">
+  </picture>
 </div>
-        
-# Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://portfolio-arin.netlify.app/" target="_blank" ><img src="arinLogo.png" height="70" /></a>
 
-<div align="center";style="display: flex; align-items:center; justify-content: center; gap: 20px;">
-    <a href="https://linkedin.com/in/arinpaliwal"target="_blank"><img src="/assets/linkedin.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/arin_paliwal"target="_blank"><img src="/assets/twitter.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/paliwal.arin"target="_blank"><img src="/assets/facebook.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/arin.paliwal/"target="_blank"><img src="/assets/instagram.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://discord.gg/rASr9bPbkb"target="_blank"><img src="/assets/discord.png" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <img src="assets/ticker.svg" alt="" width="100%">
 </div>
 
 <br>
 
-# 💻 Tech Stack:
-
-## Frontend
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Boot" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
 </div>
 
-## Backend
+<h3 align="center"><samp>01 · about</samp></h3>
 
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
+<br>
 
-## Tools
+<table width="100%">
+  <tr>
+    <td width="46%" valign="middle">
+      <p>
+        I'm a software engineer from India who believes the last 5% of a product —
+        the spacing, the motion, the empty states — is where the craft lives.
+        I spend my days building web platforms and my nights building small,
+        polished products of my own.
+      </p>
+      <p>
+        <samp>now&nbsp;&nbsp;&nbsp;&nbsp;</samp> engineering frontend platforms at <strong>Simpplr</strong><br>
+        <samp>building</samp> <strong>Wrapr</strong>, <strong>Iris</strong> &amp; other personal products<br>
+        <samp>learning</samp> AI agents &amp; design engineering<br>
+        <samp>values&nbsp;</samp> less, but better
+      </p>
+    </td>
+    <td width="54%" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/code-card-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/code-card-light.svg">
+        <img src="assets/code-card-dark.svg" alt="arin.ts" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="50"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-</div>
+<br>
 
 <div align="center">
- <br>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arin-paliwal&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8" alt="arin-paliwal" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&card_width=500&card_height=500)](https://github.com/arin-paliwal/arin-paliwal)
-
+  <img src="assets/divider.svg" alt="" width="100%">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arin-paliwal&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
+<h3 align="center"><samp>02 · toolbox</samp></h3>
+
+<br>
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+| | |
+| ---------------: | :--------------------------------------------------------------- |
+|   **languages**  | TypeScript · JavaScript · Python · SQL                            |
+|    **frontend**  | React · Next.js · Redux · Zustand · Tailwind CSS · Framer Motion  |
+|     **backend**  | Node.js · Express · Django · Flask                                |
+|        **data**  | MongoDB · Supabase · PostgreSQL                                   |
+|      **design**  | Figma · design systems · typography · motion                      |
+|     **tooling**  | Git · pnpm · Vite · Vercel · Postman                              |
 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
+</div>
+
+<h3 align="center"><samp>03 · selected builds</samp></h3>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>Wrapr</h4>
+      <p><sub>A personal life-ops platform. Ledger, expenses, reminders, bills and visitors, designed and run like a real product with its own SDK and backend.</sub></p>
+      <p><sub><samp>next.js · django</samp></sub></p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>Iris</h4>
+      <p><sub>A privacy-first visitor analytics SDK. Never throws into the host app, never blocks render, 7.7&nbsp;kB gzipped on the critical path.</sub></p>
+      <p><sub><samp>typescript · sdk</samp></sub></p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>Agent Insight</h4>
+      <p><sub>A bot detection and user-agent analysis platform with real-time traffic insights and a clean operational dashboard.</sub></p>
+      <p><sub><samp>react · vite</samp></sub></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
+</div>
+
+<h3 align="center"><samp>04 · by the numbers</samp></h3>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arin-paliwal&show_icons=true&hide_border=true&bg_color=00000000&text_color=8a8a8a&title_color=ededed&icon_color=8a8a8a&ring_color=ededed&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=arin-paliwal&show_icons=true&hide_border=true&bg_color=00000000&text_color=525252&title_color=171717&icon_color=525252&ring_color=171717&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=arin-paliwal&show_icons=true&hide_border=true&bg_color=00000000&text_color=8a8a8a&title_color=ededed&icon_color=8a8a8a&ring_color=ededed&include_all_commits=true&count_private=true" alt="GitHub stats" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arin-paliwal&hide_border=true&background=00000000&stroke=00000000&ring=ededed&fire=ededed&currStreakNum=ededed&sideNums=ededed&currStreakLabel=8a8a8a&sideLabels=8a8a8a&dates=525252">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=arin-paliwal&hide_border=true&background=00000000&stroke=00000000&ring=171717&fire=171717&currStreakNum=171717&sideNums=171717&currStreakLabel=525252&sideLabels=525252&dates=a3a3a3">
+    <img src="https://streak-stats.demolab.com?user=arin-paliwal&hide_border=true&background=00000000&stroke=00000000&ring=ededed&fire=ededed&currStreakNum=ededed&sideNums=ededed&currStreakLabel=8a8a8a&sideLabels=8a8a8a&dates=525252" alt="Contribution streak" height="170">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&layout=compact&hide_border=true&bg_color=00000000&text_color=8a8a8a&title_color=ededed&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=Diabetes-Prediction-System&card_width=440">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&layout=compact&hide_border=true&bg_color=00000000&text_color=525252&title_color=171717&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=Diabetes-Prediction-System&card_width=440">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&layout=compact&hide_border=true&bg_color=00000000&text_color=8a8a8a&title_color=ededed&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=Diabetes-Prediction-System&card_width=440" alt="Most used languages">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arin-paliwal&bg_color=0d1117&hide_border=true&color=8a8a8a&line=525252&point=ededed&area=true&area_color=8a8a8a&hide_title=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=arin-paliwal&bg_color=ffffff&hide_border=true&color=525252&line=d4d4d4&point=171717&area=true&area_color=d4d4d4&hide_title=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arin-paliwal&bg_color=0d1117&hide_border=true&color=8a8a8a&line=525252&point=ededed&area=true&area_color=8a8a8a&hide_title=true" alt="Contribution graph" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arin-paliwal/arin-paliwal/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arin-paliwal/arin-paliwal/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/arin-paliwal/arin-paliwal/output/github-snake-dark.svg" alt="Contribution snake" width="100%">
+  </picture>
+</div>
+
+<br>
 
 <!--START_SECTION:waka-->
 
@@ -121,3 +177,42 @@ Other                      27 hrs 20 mins        -------------------------   01.
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
+</div>
+
+<h3 align="center"><samp>05 · connect</samp></h3>
+
+<br>
+
+<div align="center">
+  <a href="https://arinpaliwal.vercel.app"><code>&nbsp;portfolio&nbsp;↗&nbsp;</code></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/arinpaliwal"><code>&nbsp;linkedin&nbsp;↗&nbsp;</code></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/arin_paliwal"><code>&nbsp;x&nbsp;/&nbsp;twitter&nbsp;↗&nbsp;</code></a>&nbsp;&nbsp;
+  <a href="mailto:paliwalarin09@gmail.com"><code>&nbsp;email&nbsp;↗&nbsp;</code></a>
+</div>
+
+<br>
+
+<details>
+<summary><samp>&nbsp;colophon — how this page was made</samp></summary>
+<br>
+
+- Every banner on this page (hero, ticker, dividers, code window, footer) is a **hand-written animated SVG** committed to this repo. No generators, no template services.
+- The typography is **Geist**, embedded directly inside each SVG as a base64 `@font-face`, so it renders identically for every visitor on every OS.
+- Animations (the typing code, the rotating title, the shimmer lines) are pure **CSS keyframes inside the SVGs**. GitHub happily plays them.
+- Everything ships in **adaptive pairs**. The page follows your GitHub theme via `<picture>` + `prefers-color-scheme`.
+- Palette: monochrome. `#0a0a0a` to `#ededed` and the greys in between. One green dot, because status lights deserve to be green.
+
+</details>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+    <img src="assets/footer-dark.svg" alt="Let's build something enduring." width="100%">
+  </picture>
+</div>
