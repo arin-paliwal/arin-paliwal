@@ -29,7 +29,7 @@
 
   <g class="tile t1">
     <text x="150" y="90" text-anchor="middle" class="mono" font-size="14" fill="#a3a3a3" letter-spacing="2">CONTRIBUTIONS</text>
-    <text x="150" y="158" text-anchor="middle" font-size="48" font-weight="600" fill="#171717" letter-spacing="0.5" id="stat-contrib">1,035</text>
+    <text x="150" y="158" text-anchor="middle" font-size="48" font-weight="600" fill="#171717" letter-spacing="0.5" id="stat-contrib">1,040</text>
     <text x="150" y="194" text-anchor="middle" font-size="15" fill="#8f8f8f">past 12 months</text>
   </g>
   <g class="tile t2">
